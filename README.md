@@ -1,4 +1,6 @@
-# album-at-the-place
+<p align="center">
+<img src="cover.jpg" width=100% height=400px>
+</p>
 
 Open sourcing my latest music album *[at the place](https://infinitedigits.bandcamp.com/album/at-the-place)*.
 
