@@ -12,7 +12,7 @@ All of the songs are written as miti files in the `songs` directory. Each song i
 - [PO-32](https://www.amazon.com/gp/product/B01MR9L4PL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MR9L4PL&linkCode=as2&tag=scholl-20) (for drums)
 - [Raspberry Pi](https://www.amazon.com/gp/product/B07BC7BMHY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BC7BMHY&linkCode=as2&tag=scholl-20) (for midi sequencer and controlling monotron)
 - [USB audio adapter](https://www.amazon.com/gp/product/B01N905VOY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N905VOY&linkCode=as2&tag=scholl-20) (for tuning monotron)
-- [MCP4725](https://www.amazon.com/gp/product/B00SK8MBXI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SK8MBXI&linkCode=as2&tag=scholl-20) (for controling monotron)
+- [MCP4725](https://www.amazon.com/gp/product/B00SK8MBXI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SK8MBXI&linkCode=as2&tag=scholl-20) (for controlling monotron)
 
 
 ## Links
