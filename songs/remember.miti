@@ -1,0 +1,101 @@
+# lotr.miti
+# Am F C G
+# tempo 120
+# click track at 1, so its half tempo
+# use koma
+# po-32 4 3 1 7 16
+
+chain a b c d d d d 
+
+pattern a
+
+instruments midi through port
+tempo 120
+A2-
+A2
+C3 D3
+G2
+
+C3
+F2
+C3
+B2
+
+E4
+C4
+E4
+D4
+
+A3
+F3
+G3 D4
+G4 E4
+
+.  C5- C5 . . . . B4
+A4- A4- A4 . . . . G4
+E4 D4 
+A4 G4
+
+E5
+E5
+G5
+B5
+
+pattern b
+
+instruments midi through port
+E5 A B C E5 A B C E5 A B C E5 A B C
+F5 G A C F5 G A C F5 G A C F5 G A C
+E5 G B C E5 G B C E5 G B C E5 G B C
+D5 G B C D5 G B C D5 G B C D5 G B C
+E5 A B C E5 A B C E5 A B C E5 A B C
+F5 G A C F5 G A C F5 G A C F5 G A C
+E5 G B C E5 G B C E5 G B C E5 G B C
+D5 G B C D5 G B C D5 G B C D5 G B C
+
+pattern c
+
+instruments midi through port
+C6
+C6
+C6
+D6
+C6
+C6
+D6
+D6
+G6
+G6
+G6
+E6
+E7
+E7
+C7
+B6
+
+
+pattern d
+instruments midi through port
+tempo 120
+A2-
+A2
+C3 D3
+G2
+
+# notes
+# chords
+# E C E D
+# C A C B
+# A F GDGE
+#
+# melody 1
+# . C  B 
+# A   G
+# E D
+# A G
+
+# Arp
+# E A B C
+# F G A C
+# E G B C
+# D G B C

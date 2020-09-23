@@ -1,0 +1,33 @@
+# to be used with barcode
+
+chain b a a a a a a a a a a a a a a a a a a a a a 
+
+pattern b
+
+instruments midi through
+tempo 120
+
+legato 95
+F3-
+F3-
+F3-
+F3-
+F3-
+F3-
+F3-
+F3-
+F3-
+F3
+
+
+pattern a 
+
+instruments midi through
+tempo 120
+
+legato 95
+F2 A C F A C F A C F A C F A C F
+E2 G C E G C E G C E G C E G C E
+D2 F A C D F A C D F A C D F A C
+D2 F A C D F A C D F A C D F A C
+

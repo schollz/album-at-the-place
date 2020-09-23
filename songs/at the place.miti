@@ -1,0 +1,98 @@
+# Bb FM7smushed Am Dm7 Bb FM7smushed Am Ca
+
+#Bb D F
+#A C F
+#A C E
+#A D F
+#Bb D F
+#A C  F
+#A C E
+#C E G
+# 32 beats per measure
+# po-32 7 3 14
+
+chain a 
+pattern a
+
+instruments midi through port,op-1
+tempo 120
+D4
+C
+E
+F
+D
+C
+E
+G4
+F4
+F
+C
+D
+F
+F
+C
+E4
+Bb3
+A
+A
+A
+Bb3
+A
+A
+C
+A4 C5 
+G4
+A4 E5
+D5
+A4 C5 
+G4
+F5 E5-
+E5
+Bb2 F2
+E2 C2
+A1 A2
+F2 E2
+C2 D2
+C2
+A2 G2-
+G2
+A1
+E4
+A1
+A1
+A1
+E4
+A1
+A1
+Bb2 D F Bb D F Bb D F Bb D F  
+A2 C F A C F A C F A C F 
+A2 C E A C E A C E A C E
+A2 D F A D F A D F A D F 
+Bb2 D F Bb D F Bb D F Bb D F 
+A2 C F A C F A C F A C F 
+A2 C E A C E C E G C E G 
+C2 E G C E G C E G C E G 
+Bb2 D F Bb D F Bb D F Bb D F Bb D F Bb D F  
+A2 C F A C F A C F A C F A C F A C F 
+A2 C E A C E A C E A C E A C E A C E
+A2 D F A D F A D F A D F A D F A D F 
+Bb2 D F Bb D F Bb D F Bb D F  Bb D F Bb D F 
+A2 C F A C F A C F A C F  A C F A C F 
+A2 C E A C E C E G C E G  C E G C E G 
+C2 E G C E G C E G C E G  C E G C E G 
+Bb2 D F Bb D F Bb D F Bb D F Bb D F Bb D F  
+A2 C F A C F A C F A C F A C F A C F 
+A2 C E A C E A C E A C E A C E A C E
+A2 D F A D F A D F A D F A D F A D F 
+Bb2 D F Bb D F Bb D F Bb D F  Bb D F Bb D F 
+A2 C F A C F A C F A C F  A C F A C F 
+A2 C E A C E C E G C E G  C E G C E G 
+C2 E G C E G C E G C E G  C E G C E G 
+Bb2 D F Bb D F Bb D F Bb D F Bb D F Bb D F  
+A2 C F A C F A C F A C F A C F A C F 
+A2 C E A C E A C E A C E A C E A C E
+A2 D F A D F A D F A D F A D F A D F 
+Bb2 D F Bb D F Bb D F Bb D F  Bb D F Bb D F 
+A2 C F A C F A C F A C F  A C F A C F 
+A2 C E A C E C E G C E G  C E G C E G 
+C2 E G C E G C E G C E G  C E G C E G 

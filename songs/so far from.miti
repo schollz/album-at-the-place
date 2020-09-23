@@ -1,0 +1,57 @@
+# Dm C6 Am7 BbM7
+
+chain a b b b b b b b b b b
+
+pattern a
+
+instruments midi through port, op-1
+tempo 160
+# po-35 3 4 2 (after 6, do 4) then 16 (wait for arp)
+# come in on 4
+
+legato 100
+A3
+G3
+A3
+Bb3
+D3
+E3
+C3
+D3
+D2
+C2
+A1
+Bb1
+F3
+C3
+E3
+F3
+C5
+A4
+C5
+Bb4
+F5
+E5
+E5
+A5
+
+pattern b
+
+instruments midi through, op-1
+legato 100
+C6-
+C6
+A5-
+A5
+D3 F A D F A D A F D5 F A D A F D F A
+C3 E G C E G E C G C5 E G C G E C E G 
+A3 C E A C E A E C A4 C E A C E A E C
+Bb3 D F Bb D G Bb D F Bb4 D G Bb D F Bb D F 
+. C6- C6- C6- C6- C6- C6 G5
+A5
+. C6- C6- C6- C6- C6- C6 D6
+G5
+D3 F A D F A D A F D5 F A D A F D F A
+C3 E G C E G E C G C5 E G C G E C E G 
+A3 C E A C E A E C A4 C E A C E A E C
+Bb3 D F Bb D G Bb D F Bb4 D G Bb D F Bb D F 

@@ -1,0 +1,75 @@
+
+# G3 B3 D4 
+# A3 D4 F#4 
+# B3 E4 G4 
+# G3 C4 E4
+# use click track at 1.5
+# use patterns 4, 3, 1, 6, 15 (when arp comes in)
+# destroy to 100% to fade out
+# use fx4
+# feedback all the way up at the end
+
+chain a b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b
+
+pattern a
+tempo 140
+instruments through, op-1
+
+G3
+D4 
+B3
+C4
+
+D4
+F#4
+E4
+G4
+
+B3
+A4
+G4
+B4
+
+G2
+D2
+E2
+C2
+
+D5
+D5
+E5
+E5
+
+F#5
+F#5
+G5
+G5
+
+D6
+D6
+D6
+D6
+E6
+E6
+E6
+E6
+
+pattern b
+instruments through, op-1
+
+G3 B3 D4 A3 D4 F#4 B3 E4 G4 G3 C4 E4
+D4 F#4 A3 F#4 F#4 A4 B4 A4 A4 D5 A4 G4
+E4 G4 G4 B3 B4 E5 E4 G4 B3 B4 E5 E4
+E5 E4 C4 G4 G3 E5 E4 C4 G4 G3 E5 C5
+G3 B3 D4 A3 D4 F#4 B3 E4 G4 G3 C4 E4
+D4 F#4 A3 F#4 F#4 A4 B4 A4 A4 D5 A4 G4
+E4 G4 G4 B3 B4 E5 E4 G4 B3 B4 E5 E4
+E5 E4 C4 G4 G3 E5 E4 C4 G4 G3 E5 C5
+G3 B3 D4 A3 D4 F#4 B3 E4 G4 G3 C4 E4
+D4 F#4 A3 F#4 F#4 A4 B4 A4 A4 D5 A4 G4
+E4 G4 G4 B3 B4 E5 E4 G4 B3 B4 E5 E4
+E5 E4 C4 G4 G3 E5 E4 C4 G4 G3 E5 C5
+G3 B3 D4 A3 D4 F#4 B3 E4 G4 G3 C4 E4
+D4 F#4 A3 F#4 F#4 A4 B4 A4 A4 D5 A4 G4
+E4 G4 G4 B3 B4 E5 E4 G4 B3 B4 E5 E4
+E5 E4 C4 G4 G3 E5 E4 C4 G4 G3 E5 C5
